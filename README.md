@@ -76,5 +76,6 @@ This is a beginner-friendly craft kit used at DIY events as a material for hands
 ## 製造データ
 - [KiCadデータ(単体)](./V01L02)  
 - [製造データ(面付け12枚)](./V01L02/production)  
+- 製造データは、JLCPCB "Fabrication Toolkit" により生成しました。
 
 以上
