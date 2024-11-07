@@ -63,6 +63,9 @@ This is a beginner-friendly craft kit used at DIY events as a material for hands
 ### 3. 電源を切ります。
 (1) 遊び終わったらスライドスイッチをONと反対の位置に戻します。  
 
+## 説明書
+- [説明書](./bf-043a_doc.pdf)  
+
 ## 回路図
 - [回路図](./bf-043a_scm.pdf)  
 - コイン電池(3V)で動作するよう74HCシリーズを使用し、Vf=2V程度のLEDを選択しています。
@@ -77,5 +80,8 @@ This is a beginner-friendly craft kit used at DIY events as a material for hands
 - [KiCadデータ(単体)](./V01L02)  
 - [製造データ(面付け12枚)](./V01L02/production)  
 - 製造データは、JLCPCB "Fabrication Toolkit" により生成しました。
+
+## ハンズオン開催イベント
+- [電波文化祭⚡️サイクル3](https://scrapbox.io/denpa/%E3%83%9C%E3%82%BF%E3%83%8B%E3%83%83%E3%82%AF@%E9%9B%BB%E5%AD%90%E5%B7%A5%E4%BD%9C%E5%A5%BD%E3%81%8D_JK1TZG%E2%9A%A1%EF%B8%8F%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB3)
 
 以上
